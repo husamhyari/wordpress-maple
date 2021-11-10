@@ -1,0 +1,14 @@
+---
+#System Settings
+php_modules: [ 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ]
+
+#MySQL Settings
+mysql_root_password: "Pass@123"
+mysql_db: "bwordpressdb"
+mysql_user: "admin-suserb"
+mysql_password: "Mysql@123b"
+
+#HTTP Settings
+http_host: "your_domain"
+http_conf: "your_domain.conf"
+http_port: "80"
