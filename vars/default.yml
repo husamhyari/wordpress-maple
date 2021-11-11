@@ -9,6 +9,6 @@ mysql_user: "admin-suserb"
 mysql_password: "Mysql@123b"
 
 #HTTP Settings
-http_host: "your_domain"
-http_conf: "your_domain.conf"
+http_host: "localhost"
+http_conf: "localhost.conf"
 http_port: "80"
