@@ -1,7 +1,4 @@
-#########################################################
-# DO Community Playbooks: Wordpress on Ubuntu 18.04 LAMP
-#########################################################
----
+
 - hosts: localhost
   become: true
   vars_files:
